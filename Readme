@@ -1,0 +1,10 @@
+Para instalação do arquivos de tradução efetuar os seguintes passos:
+
+
+Ex:
+
+Pegar o arquivo pbxadmin e copiar seu coteúdo dentro de seu modulo no caso:
+
+/var/www/html/pbxadmin/lang/br.lang
+
+Obs: Não esquecer de em preferências no Elastix mudar o idioma para Português Brasil.
